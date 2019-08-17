@@ -1,0 +1,482 @@
+<resources>
+    <string name="app_name">Jeg har aldrig Spillet</string>
+    <string name="welcome">Velkommen!</string>
+    <string name="description">Det klassiske Jeg har aldrig er altid en god måde at få startet festen på. Saml alle dine venner og lad spillet føre vejen. Send telefonen rundt, læs udsagnet højt og tag et shot, hvis du har udført den handling der er blevet læst højt. Arbejd dig gennem kategorier som forhold, skole eller noget lidt mere frækt….</string>
+    <string name="description_2">Saml alle dine venner og lad spillet føre vejen. Send telefonen rundt, læs udsagnet højt og tag et shot, hvis du har udført den handling der er blevet læst højt. Arbejd dig gennem kategorier som arbejde, forhold, skole eller noget lidt mere frækt...</string>
+    <string name="next">NÆSTE</string>
+    <string name="mode">Vælg en kategori</string>
+    <string name="kat_1">Frækt &amp; Sex</string>
+    <string name="kat_2">Forhold</string>
+    <string name="kat_3">Skole</string>
+    <string name="kat_4">Druk</string>
+    <string name="kat_5">Arbejde</string>
+    <string name="kat_6">loven</string>
+    <string name="kat_7">Tilfældigt Spil</string>
+    <string name="tutorial_button">?</string>
+    <string name="remove_ads_button">Fjern Reklamer</string>
+    <string name="game_text">Jeg Har Aldrig...</string>
+    <string name="next_button">Næste</string>
+    <string name="quit_button">Afslut</string>
+    <string name="start_text">Tryk næste når du er klar til at starte spillet.</string>
+
+    //String Array dirty
+    <string-array name="dirty">
+        <item>Vågnet op til et blowjob.</item>
+        <item>Haft en fræk fantasi om en ven eller venindes mor eller far.</item>
+        <item>Kysset med en af samme køn</item>
+        <item>Haft sex med en fra min klasse</item>
+        <item>Haft et one night stand.</item>
+        <item>Blevet taget i at dyrke sex af mine forældre.</item>
+        <item>Haft sex med en jeg kun havde kendt i mindre end en time.</item>
+        <item>Kysset med en i dette lokale.</item>
+        <item>Haft sex med en i dette lokale.</item>
+        <item>Haft sex et offentligt sted.</item>
+        <item>Haft sex i en elevator.</item>
+        <item>Fantaseret om en anden under sex.</item>
+        <item>Filmet mig selv under sex.</item>
+        <item>Haft sex på et køkkenbord.</item>
+        <item>Fortrudt at have sex med en person.</item>
+        <item>Haft en trekant.</item>
+        <item>Tænkt på en anden person mens jeg havde sex med en kæreste.</item>
+        <item>Prøvet at tage viagra.</item>
+        <item>Gået en hel dag uden undertøj</item>
+        <item>Onaneret mere end 3 gange på en dag</item>
+        <item>Kysset med en jeg ikke kendte navnet på.</item>
+        <item>Haft sex med en jeg ikke kendte navnet på.</item>
+        <item>Gået en “walk of shame”.</item>
+        <item>Haft sex med en person, der vejede mere end mig selv.</item>
+        <item>Haft sex med en person, der vejede mere end 80 kg.</item>
+        <item>Haft sex på en strand</item>
+        <item>Kysset med mere end 3 på en aften.</item>
+        <item>Inviteret en pige over til Netflix og chill.</item>
+        <item>Været i seng med 3 forskellige personer indenfor en uge.</item>
+        <item>Tisset i brusebadet.</item>
+        <item>Faket en orgasme.</item>
+        <item>Haft sex med en person fra Sjælland.</item>
+        <item>Haft sex med en person udenfor Danmark.</item>
+        <item>Stalket en anden person på Facebook.</item>
+        <item>Haft analsex</item>
+        <item>Brugt en dildo</item>
+        <item>Haft sex med min vens mor</item>
+        <item>Haft sex med håndjern på</item>
+        <item>Været sammen med nogen af samme køn</item>
+        <item>Kysset en kendt</item>
+        <item>Haft sex offentligt</item>
+        <item>Smagt sæd</item>
+        <item>Taget en fortrydelsespille</item>
+        <item>Onaneret på en skole</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Været gravid</item>
+        <item>Haft sex i en bil</item>
+        <item>Badet nøgen i en sø</item>
+        <item>Haft sex i en sø</item>
+        <item>Set pornofilm med kæresten</item>
+        <item>Fået en orgasme på en tørretumbler imens den var igang</item>
+        <item>DER BUNDES!</item>
+        <item>Set homo-porno</item>
+        <item>Set 2 girls 1 cup</item>
+        <item>Onaneret foran andre</item>
+        <item>Fantaseret om en ven/venindes søster/bror</item>
+        <item>Kigget på folk have sex</item>
+        <item>Fået finger i numsen</item>
+        <item>Set tv imens jeg fik et blowjob</item>
+        <item>Set hentai</item>
+        <item>Løjet i dette spil</item>
+        <item>Smagt tis</item>
+        <item>Prøvet at blive opdaget i onani</item>
+        <item>Været i tvivl om min seksualitet</item>
+        <item>Troet at en dreng var en pige</item>
+        <item>Kysset en jeg er i famillie med</item>
+        <item>Tændt på dyresex</item>
+        <item>Fået hældt varm stearin ud over mig</item>
+        <item>Haft sex mens jeg var under den seksuelle lavalder</item>
+        <item>Haft en seksuel fantasi jeg ikke har udlevet</item>
+        <item>Haft sex på en skole</item>
+        <item>Set dyresex</item>
+        <item>Overvejet om jeg var til det modsatte køn</item>
+        <item>Været til S/M</item>
+        <item>Tisset i sengen </item>
+        <item>Været kæreste med en kun pga. sex</item>
+        <item>Skidt på en anden persons dørtrin</item>
+        <item>Onaneret med frugt eller grøntsag</item>
+        <item>Tændt på fødder</item>
+        <item>Leget med en fyrs kugler</item>
+        <item>Leget med patter</item>
+        <item>Gjort noget seksuelt med en der havde det røde</item>
+        <item>Brugt sexlegetøj</item>
+        <item>Slået op med en kæreste pga. dårlig sex</item>
+        <item>Haft sex i mine forældres seng</item>
+        <item>Fantaseret seksuelt om en kendt</item>
+        <item>Haft flere end 10 kærester</item>
+        <item>Haft sex med mere end 10</item>
+        <item>Vågnet ved siden af en fremmed</item>
+        <item>Haft en kønssygdom</item>
+        <item>Haft en kønssygdom</item>
+        <item>Kysset en jeg har mødt på Facebook</item>
+        <item>Lavet en sexvideo</item>
+        <item>Givet/fået et handjob et offentligt sted</item>
+        <item>Haft sex i en sovepose</item>
+        <item>Haft sex på en skoletur</item>
+        <item>Haft sex i et omklædningsrum</item>
+        <item>Sovet i en seng med mere end 5 personer</item>
+        <item>Sagt et forkert navn under sex</item>
+        <item>Drukket med den samme person hele aftenen i håbet om sex</item>
+        <item>Taget nøgenbilleder</item>
+        <item>Haft sex andre steder end i en seng</item>
+        <item>Haft seksuelle fantasier om Harry Potter</item>
+        <item>Været sammen med en soldat</item>
+        <item>Haft smerter i kroppen efter sex</item>
+        <item>Været på dobbeltdate</item>
+        <item>Haft sex i en fremmed persons seng</item>
+        <item>Fantaseret om en fiktiv person</item>
+        <item>Troet jeg var/havde gjort en gravid</item>
+        <item>Bustet mine svigerforældre i at have sex</item>
+        <item>Fået mere end én orgasme under sex</item>
+        <item>Fortrudt en sexpartner</item>
+        <item>Kysset med en ven/venindes crush</item>
+        <item>Haft sex på en festival</item>
+        <item>Haft en drøm om sex</item>
+        <item>Spillet rollespil</item>
+        <item>Haft en våd drøm</item>
+        <item>Haft en fetish</item>
+        <item>Været sammen med min ekskæreste</item>
+        <item>Flirtet med en person der var mere end 10 år ældre</item>
+        <item>Haft sex til en privatfest</item>
+        <item>Fantaseret om min søster/bror</item>
+        <item>Haft sex med en anden nationalitet end jeg selv er</item>
+        <item>Kedet mig under sex</item>
+        <item>Haft telefonsex</item>
+        <item>Glemt navnet på fyren der lå ved siden af mig næste morgen</item>
+        <item>Kysset med 3 eller derover på en aften</item>
+        <item>Blevet bustet af mine forældre i at have sex</item>
+        <item>Været sammen med en blond</item>
+        <item>Stukket en finger op i numsen på mig selv</item>
+        <item>Kløet mig i skridtet og lugtet til hånden bagefter</item>
+        <item>Betalt for sex</item>
+        <item>Haft sex med en jyde</item>
+        <item>Haft sex med en københavner</item>
+        <item>Fået finger</item>
+        <item>Akavet vinket til en person jeg ikke havde nogen anelse om hvem var</item>
+        <item>Fundet en just dance rutine fræk</item>
+        <item>Haft sex i en skov</item>
+        <item>Fantaseret om sex i en kirke</item>
+        <item>Blevet våd i trussen af en mand i uniform</item>
+        <item>Danset nøgen rundt i mit hus</item>
+        <item>Ønsket at opføre en striptease for min kæreste/lover</item>
+        <item>Haft en kæreste uden at føle noget for ham/hende</item>
+        <item>Stønnet så højt at det kunne høres gennem væggen</item>
+        <item>Snavet</item>
+        <item>Brugt en større bh end b-skål</item>
+        <item>Drukket imens jeg var i skole</item>
+        <item>Prøvet at blive opereret</item>
+        <item>Skreget af en gyserfilm</item>
+        <item>Været sammen med en prostitueret</item>
+        <item>Været vild med en i dette rum</item>
+        <item>Været i bad med en af samme køn</item>
+        <item>Fantaseret om en i dette rum</item>
+        <item>Tændt på at blive bidt/bide</item>
+        <item>Sendt frække billeder</item>
+        <item>Gået mere end 3 måneder uden sex</item>
+        <item>Filmet mig selv under sex</item>
+        <item>Lejet en pornofilm</item>
+        <item>Fortalt nogen fra min familie om mit sexliv</item>
+        <item>Ønsket ikke at have fået så mange detaljer om vens sexliv</item>
+        <item>Haft ubeskyttet sex</item>
+        <item>Fået min storetå suttet</item>
+        <item>Haft sex med strømper på</item>
+        <item>Taget i byen bundløs</item>
+        <item>Kysset en andens kæreste</item>
+        <item>Ønsket jeg var det modsatte køn</item>
+        <item>Prøvet at mit badetøj sad forkert eller røg af</item>
+        <item>Tisset i bukserne</item>
+        <item>Spist en bussemand</item>
+        <item>Været grunden til en skadet penis</item>
+        <item>Været i seng med 2 eller flere af samme køn</item>
+        <item>Gået en hel dag uden trusser</item>
+        <item>Googlet mig selv</item>
+        <item>Bustet min bror/søster i at have sex/onaneret</item>
+        <item>Tisset i en kop</item>
+        <item>Misbrugt en for at få sex</item>
+        <item>Fået finger offentligt</item>
+        <item>Tisset i en vask</item>
+        <item>Hørt den samme sang mere end fem gange i streg</item>
+        <item>Været forelsket i min bedste veninde</item>
+        <item>Været med min kæreste i bad</item>
+        <item>Givet min bedste ven boner på</item>
+        <item>Puttet en pommes frites eller lignende op i næsen</item>
+        <item>Trukket i en dør med skiltet "SKUB"</item>
+        <item>Kysset mine venners forældre</item>
+        <item>Tisset på åben gade</item>
+        <item>Haft et crush på min venindes bror</item>
+        <item>Flashet eller moonet til en fest</item>
+        <item>Blevet taget i at synge/danse nøgen</item>
+        <item>Snavet til en julefrokost</item>
+        <item>Haft problemer med at få den op at stå</item>
+        <item>Fået en ven/veninde til at hjælpe mig med at kaste op</item>
+        <item>Været sammen med en indvandrer</item>
+        <item>Været sammen med en af min ven/venindes familiemedlemmer </item>
+        <item>Haft fordomme om folk i dette rum </item>
+        <item>Fået blå mærker efter sex</item>
+        <item>Kysset med en i dette rum </item>
+        <item>Været forelsket</item>
+        <item>Knaldet med mere end 3 på en uge </item>
+        <item>Haft sex iført et kostume</item>
+        <item>Givet blowjob i et tog</item>
+        <item>Givet mine kønsdele kælenavne</item>
+        <item>Modtaget nøgenbilleder</item>
+        <item>Afvist en der spurgte om vi skulle være kærester</item>
+        <item>Lagt op til sex</item>
+        <item>Forsøgt at spise mad på en fræk måde</item>
+        <item>Løjet om mine følelser</item>
+        <item>Forsøgt at gøre mig lækker for en anden</item>
+        <item>Tabt min mobil i toilettet</item>
+        <item>Haft sex mens der var andre til stede i samme rum</item>
+        <item>Kysset med mere end 5 nationaliteter</item>
+        <item>Haft sex på et offentligt sted</item>
+        <item>Prøvet at strippe</item>
+        <item>Prøvet at en anden tog tøjet af mig</item>
+        <item>Taget tøjet af en anden person</item>
+        <item>Været iført frækt undertøj</item>
+        <item>Følt mig fræk/sexet</item>
+        <item>Plaget nogen om sex</item>
+        <item>Betalt mig til sex</item>
+        <item>Været pinlig til en fest</item>
+        <item>Prøvet at købe kondomer</item>
+        <item>Haft et vildt skænderi, som endte i vildt lækkert sex </item>
+        <item>Haft bind for øjnene under sex </item>
+        <item>Spillet strippoker</item>
+        <item>Været i bad med en af modsatte køn</item>
+        <item>Løbet nøgenløb</item>
+        <item>Bidt en i læben </item>
+        <item>Fået følelser for min bedsteven/veninde</item>
+        <item>Snavet foran andre</item>
+        <item>Givet finger til en tilfældig</item>
+        <item>Tisset i badet</item>
+        <item>Digtet en sexhistorie</item>
+        <item>Kysset med en jeg ikke kendte</item>
+        <item>Grædt uden nogen grund</item>
+        <item>Brudt et løfte til mig selv</item>
+        <item>Været vågen i 48 timer</item>
+        <item>Øvet mig i at kysse/snave</item>
+        <item>Snydt i et spil</item>
+        <item>Set porno</item>
+        <item>Haft sex i et skab</item>
+        <item>Stønnet min kærestes navn</item>
+        <item>Onaneret på et hotel</item>
+        <item>Slikket en i øret</item>
+        <item>Taget en spiller på toilettet mens jeg har haft gæster</item>
+        <item>Set en fuld grønlænder</item>
+        <item>Sagt noget videre som var yderst fortroligt</item>
+        <item>Tænkt at mine venner var falske</item>
+        <item>Fortrudt at blive venner med en i dette rum</item>
+        <item>Haft sex i et køkken</item>
+        <item>Haft sex på et bord</item>
+        <item>Flirtet uden at mene noget med det</item>
+        <item>Onaneret foran min bedsteven/veninde</item>
+        <item>Fået en piercing</item>
+        <item>Taget nogen i at se porno</item>
+        <item>Sendt nøgenbilleder</item>
+        <item>Givet en lapdance</item>
+        <item>Fået spanking under sex</item>
+        <item>Grint så meget at jeg var ved at tisse i bukserne</item>
+        <item>Haft sex med en der havde en kæreste </item>
+        <item>Haft en bolleven</item>
+        <item>Været forelsket i en person, jeg vidste var umulig at få</item>
+        <item>Tændt på dirty talk</item>
+        <item>Haft noget kørende med 2 på en gang</item>
+        <item>Onaneret til en ven/veninde</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Haft sex med en kendt</item>
+        <item>Haft sex i naturen</item>
+        <item>Haft sex med en der vejede over 90 kg</item>
+        <item>Prøvet doggy</item>
+        <item>Kysset med en jeg syntes var grim</item>
+        <item>Fået et handjob/blowjob mens jeg kørte bil</item>
+        <item>Set naboen nøgen</item>
+        <item>Været på stripbar</item>
+        <item>Råbt af din chef.</item>
+        <item>Haft sex med en kollega</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Surfet porno på arbejdet</item>
+        <item>DER BUNDES!</item>
+        <item>Tændt på min chef</item>
+        <item>Været til jobsamtale</item>
+        <item>Brugt Facebook eller lignende på arbejdet</item>
+        <item>Hadet mit job</item>
+        <item>Onaneret i arbejdstiden</item>
+        <item>Kysset en kollega</item>
+    </string-array>
+
+    //StringArray relationships
+    <string-array name="relationships">
+        <item>Ventet med at slå op med en i håb om at personen ville gøre det først</item>
+        <item>Været forelsket i en person, jeg vidste var umulig at få</item>
+        <item>Savnet min kæreste så meget at jeg blev våd</item>
+        <item>Tænkt på min kæreste og fået boner på</item>
+        <item>Prøvet at blive svigtet af en kæreste</item>
+        <item>Fortrudt at jeg slog op med en exkæreste</item>
+        <item>Stønnet min kærestes navn</item>
+        <item>Drømt noget frækt om min kæreste</item>
+        <item>Slået min kæreste</item>
+        <item>Fantaseret om min kæreste i et kostume</item>
+        <item>Været nøgen med min kæreste</item>
+        <item>Sagt “Jeg elsker dig” til et andet menneske.</item>
+        <item>Givet mig selv en orgasme mens min kæreste så på</item>
+        <item>Haft en kæreste.</item>
+        <item>Haft et vildt skænderi, som endte i vildt lækkert sex </item>
+        <item>Haft sex med mere end 10</item>
+        <item>Haft flere end 10 kærester</item>
+        <item>Været utro.</item>
+        <item>Fortrudt at jeg slog op med en ekskæreste</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Været på dobbeltdate</item>
+        <item>Haft en datingprofil</item>
+        <item>Haft sex i en fremmed persons seng</item>
+        <item>Været sammen med min ekskæreste</item>
+        <item>Glemt p-pillen og ikke fortalt min partner om det</item>
+        <item>Kysset en andens kæreste</item>
+        <item>Fortrudt at have droppet en flirt</item>
+        <item>Glemt min kærestes fødselsdag</item>
+        <item>Tændt min kæreste</item>
+        <item>Været ulykkeligt forelsket</item>
+    </string-array>
+
+    //StringArray school
+    <string-array name="school">
+        <item>Afleveret en opgaven som du ikke selv havde lavet.</item>
+        <item>Fortalte en lærer, hvad jeg virkelig synes om en opgave.</item>
+        <item>Taget i skole i pyjamas.</item>
+        <item>fået en lærer fyret.</item>
+        <item>Måtte skifte skole på grund af dårlig opførsel.</item>
+        <item>Taget en klasse om igen.</item>
+        <item>Skrevet en eksamensopgave uden at forberede dig.</item>
+        <item>Kommet op og slås i skole.</item>
+        <item>Sovet midt i en time.</item>
+        <item>Haft sex med en fra min klasse.</item>
+        <item>Gået på efterskole.</item>
+        <item>Gået på gymnasium.</item>
+        <item>Dumpet et fag</item>
+        <item>Drukket mig fuld før en undervisningstime</item>
+        <item>Fået 12 i et fag.</item>
+        <item>Onaneret på en skole</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Surfet porno på skolen</item>
+        <item>Fantaseret om en lærer seksuelt</item>
+        <item>DER BUNDES!</item>
+        <item>Kysset med en lærer</item>
+        <item>Faldet i søvn midt i en time</item>
+        <item>Været i skole med tømmermænd</item>
+        <item>Kigget på min lærers røv</item>
+        <item>Været liderlig i skolen</item>
+        <item>Været forelsket i en fra klassen</item>
+        <item>Pjækket for at få sex</item>
+        <item>Ladet som om man var syg for at slippe for en test/fremlæggelse</item>
+        <item>Pjækket</item>
+    </string-array>
+
+    //StringArray drinking
+    <string-array name="drinking">
+        <item>Kastet op på grund af alkohol.</item>
+        <item>Drukket mig fuld flere dage i træk</item>
+        <item>Kastet op foran mine forældre.</item>
+        <item>Været så fuld at jeg ikke kunne stå</item>
+        <item>Drukket så meget af en slags sprut at jeg får det dåligt af lugten</item>
+        <item>Drukket Captain Morgan </item>
+        <item>Kørt galt på min cykel i en brandert</item>
+        <item>Drukket absint</item>
+        <item>Været til festival.</item>
+        <item>Glemt hvor jeg bor efter en druktur</item>
+        <item>Sovet på fortovet eller en bænk på vej hjem fra druk</item>
+        <item>været så fuld at jeg ikke kunne huske noget.</item>
+        <item>Været nøgen på et diskotek.</item>
+        <item>Blevet scoret af en på et diskotek.</item>
+        <item>Væltet på cykel.</item>
+        <item>Bundet en øl</item>
+        <item>Bundet en øl.</item>
+        <item>Gået ind i en lygtepæl.</item>
+        <item>Brækket mig udover mig selv eller andre</item>
+        <item>Været til udpumpning</item>'
+        <item>FÆLLES SKÅL!</item>
+        <item>Ladet som om jeg var fuld</item>
+        <item>Prøvet at blive smidt ud af et diskotek</item>
+        <item>Drukket om kap</item>
+        <item>DER BUNDES!</item>
+        <item>Prøvet at gå kold før klokken 12</item>
+        <item>Vågnet op i en hæk</item>
+        <item>Brækket mig ved siden af toilettet</item>
+        <item>Drukket Jägerbombs</item>
+        <item>Drukket mig fuld i technobajer</item>
+        <item>Drukket mig stiv alene</item>'
+        <item>Røget mere end én pakke smøger på en aften i byen</item>
+        <item>Brækket noget</item>
+        <item>Knækket mig på en bar eller diskotek </item>
+        <item>Festet i mere end 24 timer uden søvn</item>
+        <item>Drukket med den samme person hele aftenen i håbet om sex</item>
+        <item>Været så fuld at jeg ikke kunne huske festen</item>
+        <item>Danset fordi jeg var fuld</item>
+        <item>Sunget karaoke</item>
+        <item>Haft sex på en festival</item>
+        <item>Gået i byen alene</item>
+        <item>Mistet en mobil eller pung i en brandert</item>
+        <item>Vågnet op uden at kunne huske hvordan jeg kom hjem</item>
+        <item>Snakket tysk i en brandert</item>
+        <item>Danset på et bord</item>
+        <item>Brækket mig på dansegulvet</item>
+        <item>Tabt min pung</item>
+        <item>Været så fuld som jeg er nu</item>
+        <item>Drukket øl med sugerør</item>
+        <item>Taget i byen bundløs</item>
+        <item>Haft tømmermænd</item>
+        <item>Været i skole med tømmermænd</item>
+        <item>Haft roskildesyge</item>
+        <item>Tømt en flaske vodka alene</item>
+        <item>Tisset på åben gade</item>
+        <item>Set min mor/far virkelig fuld</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Flashet eller moonet til en fest</item>
+        <item>Drukket så meget, at jeg ikke var ved bevidsthed dagen efter</item>
+        <item>Drukket over 10 øl på 4 timer</item>
+    </string-array>
+
+    //StringArray loven
+    <string-array name="law">
+        <item>Lavet hærværk</item>
+        <item>Gået over for rødt</item>
+        <item>Fået en bøde for at tisse offentligt</item>
+        <item>Set en person begå butikstyveri.</item>
+        <item>Været afhængig af noget.</item>
+        <item>Siddet to på en scooter</item>
+        <item>Kørt galt</item>
+        <item>Kørt bil før jeg havde kørekort</item>
+        <item>Købt hash/en joint</item>
+        <item>Været i fængsel.</item>
+        <item>Fået en fartbøde.</item>
+        <item>Været i en slåskamp.</item>
+        <item>Været oppe at skændes med en politimand.</item>
+        <item>Slået en anden person ned i byen.</item>
+        <item>Fået stjålet noget.</item>
+        <item>Kørt galt i bil.</item>
+        <item>Stjålet.</item>
+        <item>Råbt af en politimand</item>
+        <item>Lavet hærværk</item>
+        <item>Prøvet at blive anholdt</item>
+        <item>Modtaget eller tilbudt bestikkelse</item>
+        <item>Røget hash</item>
+        <item>Taget nogle former for stoffer</item>
+        <item>Løjet om min alder</item>
+        <item>FÆLLES SKÅL!</item>
+        <item>Slået en ned</item>
+        <item>Prøvet at blive smidt ud af et diskotek</item>
+        <item>DER BUNDES!</item>
+        <item>Været involveret i et færdselsuheld</item>
+        <item>Blevet stoppet af politiet</item>
+        <item>Fået en bøde</item>
+        <item>Smadret en rude</item>
+        <item>Siddet i fængsel</item>
+        <item>Været i slåskamp</item>
+        <item>Tisset på en bus</item>
+        <item>Prøvet at "hacke" mig ind på en andens Facebook eller msn</item>
+        <item>Overnattet i detentionen</item>
+    </string-array>
+
+</resources>

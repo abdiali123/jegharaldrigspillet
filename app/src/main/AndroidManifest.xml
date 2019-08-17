@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.jegharaldrig.jegharaldrig.jegharaldrigspillet">
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:allowBackup="true"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        tools:replace="android:appComponentFactory"
+        android:appComponentFactory="whateverString"
+        android:theme="@style/AppTheme">
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.AllActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.LawActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.DrinkingActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.SchoolActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.RelationshipActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.DirtyActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.MainActivity" />
+        <activity android:name="jegharaldrig.jegharaldrig.jegharaldrig.jegharaldrigspillet.TutorialActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:host="jeg-har-aldrig"
+                    android:scheme="android-jeg-har-aldrig" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
